@@ -1,0 +1,35 @@
+#form{
+    background-color: antiquewhite;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:800px;
+
+
+}
+
+    
+#fieldset{
+    height: 400px;
+    width:500px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+#flex{
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+#statusdate{
+    display: flex;
+    justify-content: space-between;
+}
+#box{
+    height:50px;
+    width:60px;
+    
+    
+}
